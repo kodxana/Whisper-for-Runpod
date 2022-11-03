@@ -1,2 +1,2 @@
-# Wispher-for-Runpod
+# Whisper-for-Runpod
 Audio transcribe docker image
